@@ -23,7 +23,6 @@ This project demonstrates how AI can be used to generate an SEO content strategy
 # Tools Used
 
 * ChatGPT
-* Claude
 * Google Docs
 * GitHub
 
